@@ -1,0 +1,15 @@
+.mainClass {
+    display: inline-block;
+    text-align: center;
+    margin-top: 20vh;
+    width: 100%;
+}
+.timerBlock {
+    display: inline-block;
+    clear: both;
+    border: 1px solid gray;
+    border-radius: 50%;
+    padding: 13px;
+}
+.clear{clear: both;}
+.paddB20{padding-bottom: 20px;}
